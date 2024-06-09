@@ -27,9 +27,13 @@ Approach:
 
 Performance on the held-out set:
 
-Metric	    Value in %age
-accuracy	 97.38
-f1	         97.38
-precision	 97.38
-recall	     97.38
++-----------+---------------+
+| Metric    | Value in %age |
++-----------+---------------+
+| accuracy  | 97.38         |
+| f1        | 97.38         |
+| precision | 97.38         |
+| recall    | 97.38         |
++-----------+---------------+
+
     
