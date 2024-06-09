@@ -1,6 +1,7 @@
 # Sentiment-Sub-Themes-Identification
 Subtheme Sentiment Analysis Task
-Subtheme Sentiment Analysis Task
+
+
 Take the following example:
 “One tyre went missing, so there was a delay to get the two tyres fitted. The way garage dealt
 with it was fantastic.”
