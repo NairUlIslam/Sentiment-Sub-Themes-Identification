@@ -24,7 +24,7 @@ Approach:
 3. 20% of the data is held-out for testing, and 10% data from the training set is used for model validation as it is being trained.
 4. Strarified spilitting was employed to ensure proper distribution.
 5. After successful training, test the performance of the model on the held out set.
-6. Generate a CSV file that contains where we match the actual insights and sentiments with those of the predicted insights and associated sentiments.
+6. Generate a CSV file (result_file.csv) that contains where we match the actual insights and sentiments with those of the predicted insights and associated sentiments.
 
 Performance on the held-out set:
 
